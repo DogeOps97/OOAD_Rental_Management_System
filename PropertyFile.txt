@@ -1,0 +1,7 @@
+#propertyID, propertyType, propertyPrice, propertySize, uploader_userID, grantID,ownerName,currentStatus,projectName,numBathroom,numRoom,address,facilities,
+1,Bungalow,1500.0,900.0,Tan Ming Yu,16168,dsfsdfa,Solstice,0,2,3,ST2-32-18|Solstice|Solstice|81000|,Air-Conditioner|Balcony|Fridge|Gym Room|Swimming Pool|TV|Washing Machine|Water Heater|Wifi|,
+2,Terrace/Link,1550.0,1020.0,Tee Ee Yang,16168,fdsf,Cyberia,0,32,3,23|23|23|3|,Washing Machine|,
+3,Bungalow,324.0,3.2432432E7,432,16168,432,Cyberia,0,4324,32432,432423423|432|32|4|,Gym Room|Swimming Pool|,
+4,Bungalow,324324.0,324.0,234,214,4324,Cyberia,0,32432,324,324324|324|32|324|,Air-Conditioner|Gym Room|TV|Water Heater|Wifi|,
+5,Bungalow,124.0,124.0,tat,1,124dsga sdfa,Solstice,1,2,5,124|jalam|sri|61000|,Air-Conditioner|Fridge|Balcony|,
+6,Bungalow,2.0,2.0,tae sin ming,1,gsg12,Cristal Serin Residence,1,5,10,2241|Jalan Sri|Taman King|63100|,Air-Conditioner|Wifi|TV|Swimming Pool|Fridge|Water Heater|Gym Room|Balcony|Washing Machine|,

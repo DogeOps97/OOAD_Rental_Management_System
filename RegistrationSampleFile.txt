@@ -1,0 +1,4 @@
+#userID, userName, userPassword, userRealName, userContact, userRole,
+16162,test,nopassword,Unknown,unknown,Tenant,
+214,riki,pass,Rikimaru,01041516,tenant,
+16163,TestUser,yes,"","",Tenant,
